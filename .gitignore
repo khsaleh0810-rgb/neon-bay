@@ -1,6 +1,4 @@
-# Build output — the grader runs main.ts itself and regenerates this, so the
-# generated directory never needs to be committed.
-out/
-
-# Local tooling and test scratch, kept outside the repo anyway.
 node_modules/
+out/
+.DS_Store
+
